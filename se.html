@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DirectHERS</title>
+  <link rel="icon" href="images/log.png" type="image/icon type">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+
+  <!-- NEW add Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      
+  <!-- Styling -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap" rel="stylesheet">
+  <center><h5 id="home"> <img id="logoleft" src="./images/logo.png"width="100" height="100"/> &lt;DirectHERS&gt; <img id="logoright" src="./images/logo.png"width="100" height="100"/></h5></center>
+</head>
+<nav id="topnav">
+    <ul>
+    <li><a class="active" href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="glossary.html">Tag Glossary</a></li>
+    <li><a href="overview.html">Overview</a></li>
+    <li><a href="se.html">Search Engine</a></li>
+    <li><a href="notes.html">Lab Notes</a></li>
+    </ul>
+    </nav>
+<body >
+
+<center><h1>Welcome to our search engine prototype </h1></center>
+
+<div style="text-align:justify;"> <center>
+  <button class="square_btn" onclick="typeWriter()">Click and discover how I work</button>
+ <p id="type"> </p> </center>
+</div>
+
+
+<div  style="text-align:center"; >
+    <form >
+        <label for="query" style="color:#e26c4f";>Type one of the tags to test the engine:</label>
+        <input type="text" id="query" name="query">
+        <button style="color:#e26c4f";type="submit">Search</button>
+    </form>
+  
+    <div id="results" style="color:#e26c4f";></div>
+</div>
+  
+<script src="search.js"></script>
+<script src="type.js"></script>
+</body>
+</html>
