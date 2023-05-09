@@ -47,10 +47,10 @@ xhr.onreadystatechange = function() {
           const tagStr = new XMLSerializer().serializeToString(matchingTag);
           console.log(tagStr);
          
-          resultsDiv.innerHTML += `<pre><strong>${tagName}</strong> (${childTagNames}): ${tagStr}</pre>`;
+          resultsDiv.innerHTML += `<pre><strong><mark style="background-color:yellow";>${tagName}</mark></strong> (${childTagNames}): ${tagStr}</pre>`;
         }
       } else {
-        resultsDiv.innerHTML += `<p>No ${query} tags found</p>`;
+        resultsDiv.innerHTML += `<p style="color:red">No ${query} tags found</p>`;
       }
     });
   }
