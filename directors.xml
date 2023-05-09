@@ -1,146 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <directors>
-    <director>
-        <name>Clare Weiskopf</name>
-        <nationality>British-Colombian</nationality>
-        <occupation>director,producer,journalist</occupation>
-        <founder>
-            <organization_name>Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
-            <organization_mission>Film production company based in Colombia working on creative documentaries</organization_mission>
-        </founder>
-        <birth>
-            <city>Bogotá</city>
-            <country>Colombia</country>
-            <birthdate>Unkown</birthdate>
-        </birth>
-        <residence>
-            <city type="raised">Bogotá</city>
-            <city type ="migrated">London</city>
-            <city type="current">Santa Marta</city>
-        </residence>
-        <movie>
-            <title>Amazona</title>
-            <released_year>2016</released_year>
-            <produced_by>Casatarántula</produced_by>
-            <based_on>true self story</based_on>
-            <description>Clare Weiskopf travels to the Colombian Amazon jungle to spend time with her mother and reflect on their past and their ideas of motherhood</description>
-            <behind_the_scene>
-            Clare Weiskopf visits her mother, an 80-year old women who lives in the Amazon jungle, and spend times with her reflecting on their past, their memories and their ideas on motherhood
-            <citation href="https://hyp.is/_j3CAMjfEe2hLdsgpGvvGQ/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
-            </behind_the_scene>
-            <awards category="Macondo Awards, 2018,">Best Documentary, Best Editing, Best Music</awards>
-            <awards category="Goya Awards, 2018">Nominated for Best Iberoamerican Film</awards>
-        </movie>
-        <inspirations>
-            <context>Clare Weiskopf is interested in social issues and has worked on diverse themes from Colombia's armed conflict, problematics of sexual violence and even cumbia music</context>
-            <citation href="https://hyp.is/iXWH6sjgEe2qrTfNjhH6Aw/www.casatarantula.co/en/about">Hypothesis Annotation</citation>
-        </inspirations>
-        <family>
-            <description>Clare Weiskopf's film Amazona portrays her mother, Valeria Meikle, who left Englad at age 23 to live in Colombia. Her sister, Caroline, later dies at the Armero tragedy in 1985</description>
-            <citation href="https://hyp.is/1UK_bMjgEe2heIfMc5NLoA/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
-        </family>
-        <education>
-            <college location="Colombia">Pontificia Universidad Javeriana</college>
-            <description>Clare Weiskopf started her career as a journalist rather than a filmmaker and worked in television productions</description>
-        </education>
-        </director>
-        <director>
-            <name>Rakhshan Banietemad</name>
-            <nationality>Iranian</nationality>
-            <occupation>film director, producer, screenwriter</occupation>
-            <birth>
-            <city>Tehran</city>
-            <country>Iran</country>
-            <birthdate>04/03/1954</birthdate>
-            </birth>
-        <residence>
-            <city type="raised">Tehran</city>
-            <city type="current">Tehran</city>
-        </residence>
-        <movie>
-            <movie_title>Nargess</movie_title>
-            <based_on>love triangle, thievery, city poverty</based_on>
-            <description>The story of a thief that falls in love with a young working-class woman, the characters reflect a nation grappling with social and economic issues</description>
-            <behind_the_scene>
-            <citation href="https://hyp.is/NhgpWNZHEe20gb_B2d9zLQ/harvardfilmarchive.org/calendar/nargess-2010-04">https://hyp.is/NhgpWNZHEe20gb_B2d9zLQ/harvardfilmarchive.org/calendar/nargess-2010-04</citation>
-            </behind_the_scene>
-        </movie>
-</director>
-<director>
-        <name>Rea Tajiri</name>
-        <nationality>Japanese-American</nationality>
-        <occupation>video artist,filmmaker,sceenwriter</occupation>
-        <birth>
-        <city>Chicago</city>
-        <country>United States</country>
-        <birthdate>1958</birthdate>
+  <director>
+    <name>Alethea Arnaquq-Baril</name>
+    <ethnicity>Inuk Canadian</ethnicity>
+    <occupation>Director,Producer,Animator</occupation>
+    <birth>
+      <city>Frobisher Bay, Northwest Territories</city>
+      <country>Canada</country>
+      <birthdate>1978-05-09</birthdate>
     </birth>
+    <death />
+    <education>Sheridan College,Canada (BA)</education>
     <residence>
-        <city type="raised">Chicago</city>
-        <city type="migrated">New York</city>
-        <city type="current">Philadelphia</city>
+      <city type="born">Frobisher Bay, Northwest Territories</city>
     </residence>
-    <filmography>
-        <movie>
-            <title>Wisdom Gone Wild</title>
-            <released_year>2022</released_year>
-            <movie_producer>Ghost Pictures Productions</movie_producer>
-            <based_on>true self story</based_on>
-            <description>Rea Tajiri explores with her mother, Rose Tajiri, what it has meant for her to live with dementia</description>
-            <behind_the_scene>
-            <citation href="https://hyp.is/MB3bhNYoEe2QSEcZtwuAyQ/tfma.temple.edu/blog/interview-prof-rea-tajiri-wisdom-gone-wild">Hypothesis Annotation</citation>
-            </behind_the_scene>
-        </movie>
-        <movie>
-            <title>Strawberry Fields</title>
-            <released_year>1997</released_year>
-            <movie_producer>Rea Tajiri, Jason Kliot, Hank Blumenthal</movie_producer>
-            <based_on>historical events</based_on>
-            <description>A Japanese American living in 1970s Chicago revealing a family history on the Japanese American Internment</description>
-            <behind_the_scene>
-            <citation href="https://hyp.is/3HKNftY5Ee2QmA-Pku_dcA/en.wikipedia.org/wiki/Strawberry_Fields_(1997_film)"/>
-            </behind_the_scene>
-            <collaboration>Rea Tajiri created a partnership with author Kerri Sakamoto to write this story</collaboration>
-            <citation href="https://hyp.is/9Rgq2tY7Ee2wCEsX8C9L6g/en.wikipedia.org/wiki/Rea_Tajiri"/>
-        </movie>
-    <affiliation>
-        <affiliation_name>The Kitchen</affiliation_name>
-        <affiliation_desc>non-profit experimental art institution</affiliation_desc>
-    </affiliation>
+    <movie>
+      <movie_title>James Houston: The Most Interesting Group of People You'll Ever</movie_title>
+      <movie_info>A documentary on the life of artist, James Houston, who introduced Inuit art to the world and worked collaboratively with Inuit artists in creating the acclaimed art co-operative, Kinngait Studios</movie_info>
+      <based_on>Biography</based_on>
+      <description>The life of artist, James Houston</description>
+      <awards>Allan King Award For Excellence in Documentary, 2008</awards>
+      <behind_the_scene>
+        <description>James Archibald Houston (June 12, 1921 - April 17, 2005) was a Canadian artist, designer, children's author and filmmaker who played an important role in the recognition of Inuit art and introduced printmaking to the Inuit. The Inuit named him Saumik, which means "the left-handed one".</description>
+        <citation href="https://en.wikipedia.org/wiki/Alethea_Arnaquq-Baril" />
+      </behind_the_scene>
+    </movie>
+    <movie>
+      <movie_title>Lumaajuuq: The Blind Boy and the Loon</movie_title>
+      <movie_info>A short film adaption of a traditional Inuit story which explains the origin of the narwhal and illustrates the dangers of seeking revenge.</movie_info>
+      <citation href="https://hyp.is/oyeb2uSLEe2D4uNPFU1bkw/ocean.si.edu/human-connections/history-cultures/native-knowledge-narwhal">Hypothesis Annotation</citation>
+      <based_on>Inuit Culture</based_on>
+      <description>In Inuit culture, the narwhal is described as qilalugaq qernertaq, which Inuit hunters relied on as an essential source of food, blubber, and raw materials.</description>
+    </movie>
+  </director>
+  <director>
+    <name>Clare Weiskopf</name>
+    <ethnicity>British-Colombian</ethnicity>
+    <occupation>director,producer,journalist</occupation>
+    <birth>
+      <city>Bogotá</city>
+      <country>Colombia</country>
+      <birthdate>Unkown</birthdate>
+    </birth>
+    <founder>
+      <organization_name>Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
+      <organization_mission>Film production company based in Colombia working on independent, creative and personal documentaries.</organization_mission>
+    </founder>
+    <education location="Colombia">Pontificia Universidad Javeriana</education>
+    <description>Clare Weiskopf started her career as a journalist rather than a filmmaker and worked in television productions.</description>
+    <residence>
+      <city type="raised">Bogotá</city>
+      <city type="migrated">London</city>
+      <city type="current">Santa Marta</city>
+    </residence>
     <inspirations>
-        <context>Rea Tajiri's work has been informed and influenced by her family history, context and her father's profession as a photographer</context>
-        <citation href="https://hyp.is/DEvBzNY7Ee20h2ueh7stPQ/www.documentary.org/blog/ida-member-spotlight-rea-tajiri"/>
+      <description>Clare Weiskopf is interested in social issues and has worked on diverse themes from Colombia's armed conflict, sexual violence and even Cumbia music.</description>
+      <citation href="https://hyp.is/iXWH6sjgEe2qrTfNjhH6Aw/www.casatarantula.co/en/about">Hypothesis Annotation</citation>
     </inspirations>
     <family>
-        <parents>Vicent Tajiri and Rose Tajiri</parents>
+      <description>Clare Weiskopf's film Amazona portrays her mother, Valeria Meikle, who left Englad at age 23 to live in Colombia. Her sister, Caroline, later dies at the Armero tragedy in 1985</description>
+      <citation href="https://hyp.is/1UK_bMjgEe2heIfMc5NLoA/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
     </family>
-    <education>
-        <college location="United States">California Institute of the Arts</college>
-    </education>
-    </director>
-
-
-    <director>
- 
+    <groundbreaking>
+      <description>Clare Weiskopf is a skilled filmmaker and journalist who is dedicated to presenting captivating stories that explore both the lives of women and the broader Colombian society. She uses her artistry to create narratives that delve deeply into Colombia's internal conflict, focusing on the intimate and personal experiences of individuals from different regions. Additionally, Weiskopf pushes the boundaries of conventional perspectives on women. Her films challenge stereotypes surrounding motherhood and highlight the experiences of women who have faced homelessness.</description>
+      <citation href="https://hyp.is/gdXNZOKuEe21u0tuR7qO5w/globalimpactproducers.org/directory/member/clare-weiskopf">Hypothesis Annotation</citation>
+    </groundbreaking>
+    <movie>
+      <movie_title>Amazona</movie_title>
+      <movie_info>Amazona is a movie that deals with Clare Weiskopf relationship with her mother and depicts her increadible life. The director talks about how, in the process of making the movie, she also realized that the film deals with her own motherhood and questions about liberty and responsability once a person becomes a mother</movie_info>
+      <citation href="https://annotate.tv/watch/644680f61ed351000816da14?annotationId=644680f61ed351000816da15">YouTube Video, Rolling Stones en Español, AMAZONA - CLARE WEISKOPF, annotation</citation>
+      <released_year>2016</released_year>
+      <produced_by>Casatarántula</produced_by>
+      <based_on>true self story</based_on>
+      <description>Clare Weiskopf travels to the Colombian Amazon jungle to spend time with her mother and reflect on their past and their ideas of motherhood</description>
+      <behind_the_scene>
+        Clare Weiskopf visits her mother, an 80-year old women who lives in the Amazon jungle, and spend times with her reflecting on their past, their memories and their ideas on motherhood.
+                
+				
+        <citation href="https://hyp.is/_j3CAMjfEe2hLdsgpGvvGQ/www.hollywoodreporter.com/movies/movie-reviews/amazona-1080678/">Hypothesis Annotation</citation>
+      </behind_the_scene>
+      <awards>Macondo Awards, 2018, Best Documentary, Best Editing, Best Music</awards>
+      <awards>Goya Awards, 2018, Nominated for Best Iberoamerican Film</awards>
+      <genre>Documentary</genre>
+    </movie>
+    <movie>
+      <movie_title>Alis</movie_title>
+      <movie_info>In a shelter for teenage girls in Bogotá, Colombia, directors Clare Weiskopf and Nicolás Van Hemelryck ask a group of young women to imagine a fictional classmate named Alis. Through their own narrative stories about Alis the girls reveal their own stories</movie_info>
+      <released_year>2022</released_year>
+      <produced_by>Casatarántula</produced_by>
+      <based_on>Documentary Imagination prompted by a fictional character created by twenty young women at a shelter in Bogotá, Colombia, and their experiences</based_on>
+      <description>Alis is a film that has at its center an experimental approach, a playful collaboratory methodology and a metanarrative. Rather than being character-driven, the directors create a documentary about the storytellers.</description>
+      <citation href="https://hyp.is/FAvWuOKnEe2s-zdfN50Zng/www.idfa.nl/en/article/169068/the-ethics-of-documentary-imagination-clare-weiskopf-and-nicolas-van-hemelryck-on-making-alis?filters[category]=filmmakers">Hypothesis Annotation</citation>
+      <awards>Crystal Bear and Teddy Award, Berlinale, 2022</awards>
+      <awards>Best Iberoamerican Documentary, Guadalajara International Film Festival, 2022</awards>
+      <awards>Lili Award for Best Documentary Film, MIX CPH, LGBTQIA+ Film Festival, 2022</awards>
+      <genre>
+        <description>The directors have described the film as Documentary Imagination</description>
+        <citation href="https://hyp.is/FAvWuOKnEe2s-zdfN50Zng/www.idfa.nl/en/article/169068/the-ethics-of-documentary-imagination-clare-weiskopf-and-nicolas-van-hemelryck-on-making-alis?filters[category]=filmmakers">Hypothesis Annotation</citation>
+      </genre>
+      <theme>
+        <description>Alis is a fictional character created by twenty girls that live in Arcadia, a shelter home for young women that have experienced homelessness. Through their narration Alis becomes another classmate but also a canvas in which the girls tell part of their own lifestories. The third person point of view fuses constantly with the first person perspective</description>
+        <citation href="https://annotate.tv/watch/4rxkzbfpk?annotationId=9bi7p7xhb">YouTube video. Alis | Berlinale meets... Clare Weiskopf and Nicolás van Hemelryck | Berlinale 2022</citation>
+      </theme>
+      <concept_development>The idea of making a film with the girls from Arcadia started when directors Clare Weiskopf and Nicolás Van Hemelryck were invited to give workshops on documentary filmmaking at the shelter. They soon realized the creative potential of this group of young women and decided to begin a process to tell their stories. At the beginning they considered a character-driven story but soon realized this approach would not be suficient to portray all of the girls and their lifestories. Then, they did an exercise with the girls asking them to create a fictional character and through their narrative and imaginative process the filmmakers realized they could create a documentary about their characters centering an ethical yet very intimate story</concept_development>
+      <citation href="https://hyp.is/EZXIFOKqEe29YvN7vzu8Gg/www.idfa.nl/en/article/169068/the-ethics-of-documentary-imagination-clare-weiskopf-and-nicolas-van-hemelryck-on-making-alis?filters[category]=filmmakers">Hypothesis Annoatation</citation>
+      <film_technique>
+        <description>The filmmakers interviewed one by one each of the girls participating in the project. They asked them to imagine Alis and describe her. They had a support group of specialist including psychologist experts on trauma. After the interviews the group will get together and debrief. The filmmakers held a private screening with the girls once the film was done. The girls received the film positively</description>
+        <citation href="https://hyp.is/pqRlWOKsEe2aVBfkktx3zg/www.idfa.nl/en/article/169068/the-ethics-of-documentary-imagination-clare-weiskopf-and-nicolas-van-hemelryck-on-making-alis?filters[category]=filmmakers">Hypothesis Annotation</citation>
+      </film_technique>
+      <fund_support>
+        <description>Proimágenes Colombia, Ibermedia, Catapult Film Fund, IDFA Bertha Fund, Chicken and Egg pictures, among others</description>
+      </fund_support>
+      <challenge>
+        <description>Filmmakers describe multiple challenges they faced while conceiving the movie, specially the need to integrate all the different voices in the film with twenty characters</description>
+        <citation href="https://hyp.is/KD62jOKsEe2CpJ9htR35Gw/www.idfa.nl/en/article/169068/the-ethics-of-documentary-imagination-clare-weiskopf-and-nicolas-van-hemelryck-on-making-alis?filters[category]=filmmakers">Hypothesis Annoatation&gt;</citation>
+      </challenge>
+    </movie>
+  </director>
+  <director>
     <name>Claudia Llosa</name>
-
-        <ethnicity>Peruvian</ethnicity>
-        <occupation>Film director, writer, producer</occupation>
-        <birth>
-            <city>Lima</city>
-            <country>Peru</country>
-            <birthdate>11-15-1976</birthdate>
-        </birth>
-        <residence>
-              <city type="current">Barcelona</city>
-        </residence>
-  
-            <title>La Teta Asustada ["The Milk of Sorrow']</title>
-            <released_year>February 12, 2009</released_year>
-            <genre>Drama</genre>
-            <produced_by>Claudia Llosa, Antonio Chavarrías, José María Morales</produced_by>
-            <based_on>Historical Events</based_on>
-              <description>The Milk of Sorrow deals with the traumas and pains of women who were victims of sexual abuse during Peru's internal conflict</description>
-       
-</director>
-
+    <ethnicity>Peruvian</ethnicity>
+    <occupation>Film director, writer, producer</occupation>
+    <birth>
+      <city>Lima</city>
+      <country>Peru</country>
+      <birthdate>11-15-1976</birthdate>
+    </birth>
+    <residence>
+      <city type="current">Barcelona</city>
+    </residence>
+    <movie>
+      <movie_title>La Teta Asustada ["The Milk of Sorrow']</movie_title>
+      <released_year>February 12, 2009</released_year>
+      <genre>Drama</genre>
+      <produced_by>Claudia Llosa, Antonio Chavarrías, José María Morales</produced_by>
+      <based_on>Historical Events</based_on>
+      <description>The Milk of Sorrow deals with the traumas and pains of women who were victims of sexual abuse during Peru's internal conflict</description>
+    </movie>
+  </director>
+  <director>
+    <name>Lucrecia Martel</name>
+    <ethnicity>Argentinian</ethnicity>
+    <occupation>film director, producer, screenwriter</occupation>
+    <birth>
+      <city>Salta</city>
+      <country>Argentina</country>
+      <birthdate>1966-12-14</birthdate>
+    </birth>
+    <education>University of Buenos Aires, National School of Film Experimentation and Production</education>
+    <residence>
+      <city type="migrated">Buenos Aires</city>
+    </residence>
+    <movie>
+      <movie_title>La Ciénaga</movie_title>
+      <released_year>February 8, 2001</released_year>
+      <genre>Comedy-Drama</genre>
+      <produced_by>Wanda Visiòn S.A</produced_by>
+      <based_on />
+      <description>A bourgeois Argentinian family spends their summer vacations at their decaying country house, La Mándragora. The movie portrays the family conflicts that arise commenting on issues of class, race and sexuality</description>
+    </movie>
+  </director>
+  <director>
+    <name>Rakhshan Banietemad</name>
+    <name>Rakhshan Banietemad</name>
+    <ethnicity>Iranian</ethnicity>
+    <occupation>film director, producer, screenwriter</occupation>
+    <birth>
+      <city>Tehran</city>
+      <country>Iran</country>
+      <birthdate>04-03-1954</birthdate>
+    </birth>
+    <residence>
+      <city type="raised">Tehran</city>
+      <city type="current">Tehran</city>
+    </residence>
+    <movie>
+      <movie_title>Nargess</movie_title>
+      <released_year>1991</released_year>
+      <based_on>love triangle, thievery, city poverty</based_on>
+      <description>The story of a thief that falls in love with a young working-class woman, the characters reflect a nation grappling with social and economic issues</description>
+      <citation href="https://hyp.is/NhgpWNZHEe20gb_B2d9zLQ/harvardfilmarchive.org/calendar/nargess-2010-04">Hypothesis Annotation</citation>
+      <genre>Drama</genre>
+    </movie>
+  </director>
+  <director>
+    <name>Rea Tajiri</name>
+    <ethnicity>Japanese-American</ethnicity>
+    <occupation>video artist,filmmaker,sceenwriter</occupation>
+    <birth>
+      <city>Chicago</city>
+      <country>United States</country>
+      <birthdate>1958</birthdate>
+    </birth>
+    <education location="United States">California Institute of the Arts</education>
+    <residence>
+      <city type="raised">Chicago</city>
+      <city type="migrated">New York</city>
+      <city type="current">Philadelphia</city>
+    </residence>
+    <affiliations>
+      <affiliation_name>The Kitchen.</affiliation_name>
+      <description>A non-profit experimental art institution based in New York. Rea Tajiri joined The Kitchen when she moved to the city.</description>
+      <citation href="https://hyp.is/M3FfLuI4Ee2M3C-9kUA0Ug/en.wikipedia.org/wiki/Rea_Tajiri" />
+    </affiliations>
+    <inspirations>
+      <description>Rea Tajiri's work has been informed and influenced by her family history, the Japanese American heritage and cultural context and partly also her father's profession as a photographer</description>
+      <citation href="https://hyp.is/DEvBzNY7Ee20h2ueh7stPQ/www.documentary.org/blog/ida-member-spotlight-rea-tajiri">Hypothesis Annotation</citation>
+    </inspirations>
+    <family>
+      <parents>Vicent Tajiri and Rose Tajiri</parents>
+    </family>
+    <groundbreaking>
+      <description>Rea Tajiri's work is known for challenging stereotypical depictions of Asian-Americans using an experimental approach in her technique. She often fuses different media and narratives. Tajiri uses footage from personal archive in juxtaposition with mass media and historical records.</description>
+      <citation href="https://hyp.is/BNuulOJHEe2P-T8IbhhhvQ/www.eai.org/artists/rea-tajiri/biography">Hypothesis Annotation</citation>
+    </groundbreaking>
+    <movie>
+      <movie_title>Wisdom Gone Wild</movie_title>
+      <movie_info>In Wisdom Gone Wild, Rea Tajiri explores the lifestory of her mother, Rea Tajiri Noda, during her final sixteen years dealing with dementia. Tajiri explains that her mother, who survived incarceration in an American Concentration Camp during WWII, invents a new name and identity merging the past with the present. The movie wants to deal with the person's perspective rather than the disease.</movie_info>
+      <citation href="https://hyp.is/8vd5iOJBEe2WG3_4onUK_A/viahtml.hypothes.is/blog/interview-prof-rea-tajiri-wisdom-gone-wild">Hypothesis Annotation</citation>
+      <released_year>2022</released_year>
+      <movie_producer>Ghost Pictures Productions</movie_producer>
+      <based_on>true self story</based_on>
+      <description>Rea Tajiri explores with her mother, Rose Tajiri, what it has meant for her to live with dementia</description>
+      <citation href="https://hyp.is/MB3bhNYoEe2QSEcZtwuAyQ/tfma.temple.edu/blog/interview-prof-rea-tajiri-wisdom-gone-wild">Hypothesis Annotation</citation>
+      <awards>Berwick New Cinema Award, Berwick Film and Media Arts Festival,2023</awards>
+      <awards>Winner Festival Prize, Best Documentary Feature, Philadelphia Asian American Film Festival, 2022</awards>
+      <genre>Personal Documentary</genre>
+      <theme>
+        <description>Wisdom Gone Wild, deals with aging and memory highlighting the different moments within a lifetime. And it does so by portraying Rea Tajiri's mother as she deals with dementia</description>
+        <citation href="https://hyp.is/mi5CsOI2Ee2wkZMjYm9RQQ/bombmagazine.org/articles/ways-of-time-traveling-rea-tajiri-interviewed/">Hypothesis Annotation</citation>
+      </theme>
+      <concept_development>
+        <description>Rea Tajiri explains that at first she didn't wanted to make a movie about her mother's dementia, but as she started to take care of her on a consistent basis and did a lot of photography of her she realized in 2012 that she needed to turn their story into film. One of the things Tajiri recognized was the transformation of ther mother in front of the camera. She describes her mother's dementia as creative.</description>
+        <citation href="https://hyp.is/iHITIuJEEe2wgY_dZqD7_Q/viahtml.hypothes.is/blog/interview-prof-rea-tajiri-wisdom-gone-wild">Hypothesis Annotation</citation>
+      </concept_development>
+    </movie>
+    <movie>
+      <movie_title>Strawberry Fields</movie_title>
+      <released_year>1998</released_year>
+      <movie_producer>Rea Tajiri, Jason Kliot, Hank Blumenthal</movie_producer>
+      <based_on>historical events</based_on>
+      <description>A Japanese American living in 1970s Chicago revealing a family history on the Japanese American Internment</description>
+      <citation href="https://hyp.is/3HKNftY5Ee2QmA-Pku_dcA/en.wikipedia.org/wiki/Strawberry_Fields_(1997_film)">Hypothesis Annotation</citation>
+      <awards>Grand Prix, Fukuoka Asian Film Festival, 1998</awards>
+      <genre>Dramatic Feature</genre>
+      <collaboration>Rea Tajiri created a partnership with author Kerri Sakamoto to write this story</collaboration>
+      <citation href="https://hyp.is/9Rgq2tY7Ee2wCEsX8C9L6g/en.wikipedia.org/wiki/Rea_Tajiri">Hypothesis Annotation</citation>
+    </movie>
+  </director>
+  <director>
+    <name>Ruth Ozeki</name>
+    <ethnicity>American-Canadian</ethnicity>
+    <occupation>Filmmaker, Writer, Zen Buddhist Priest</occupation>
+    <birth>
+      <city>New Haven, Connecticut</city>
+      <country>USA</country>
+      <birthdate>1956-03-12</birthdate>
+    </birth>
+    <death />
+    <education>Smith College (BA)</education>
+    <residence>
+      <city type="born">Northampton, Massachusetts; New York, New York; and Cortes Island, British Columbia</city>
+    </residence>
+    <movie>
+      <movie_title>Body of Correspondence</movie_title>
+      <movie_info>A lifetime of letters between penpals falls into the hands of a collector who plans to rewrite history - prompting the writers' ghosts to intervene.</movie_info>
+      <awards>1995 SFFilmFestival Goldne Gate Award, New Visions Award</awards>
+      <based_on>Letters</based_on>
+      <description>The movie integrates issues of science, technology, religion, environmental politics, and pop culture into unique, hybrid, narrative form. </description>
+      <citation href="https://itvs.org/films/body-of-correspondence" />
+    </movie>
+  </director>
+  <director>
+    <name>Shamim Ara</name>
+    <ethnicity>Indian</ethnicity>
+    <occupation>Director,Producer,Actor</occupation>
+    <birth>
+      <city>Putli Bai, Aligrath</city>
+      <country>Indian Sub-continent</country>
+      <birthdate>1938-03-12</birthdate>
+    </birth>
+    <death>2016-08-05</death>
+    <education />
+    <residence>
+      <city type="born">Putli Bai, Aligrath</city>
+      <city type="former" />
+    </residence>
+    <movie>
+      <movie_title>Saiqa</movie_title>
+      <movie_info> The movie is about a 20 year old orphan young woman who lives in a palace with her grandmother, aunts and uncles all of whom treat her badly.  She is in love with her cousin Rehan who loves someone else.  The superstitious and hate filled hearts around her believe she is cursed.  After much hardship, she eventually convinces Rehan of her love. </movie_info>
+      <based_on> The movie is based on the novel of the same name by Razia Butt.</based_on>
+      <awards>9 Nigar Awards</awards>
+      <based_on />
+      <description>James Archibald Houston (June 12, 1921 - April 17, 2005) was a Canadian artist, designer, children's author and filmmaker who played an important role in the recognition of Inuit art and introduced printmaking to the Inuit. The Inuit named him Saumik, which means "the left-handed one".</description>
+      <citation href="https://en.wikipedia.org/wiki/Saiqa_(film)" />
+    </movie>
+  </director>
+  <director>
+    <name>Shonali Bose</name>
+    <ethnicity>Indian</ethnicity>
+    <occupation>Director,Writer,Producer</occupation>
+    <birth>
+      <city>Calcutta,West Bengal</city>
+      <country>India</country>
+      <birthdate>1965-06-03</birthdate>
+    </birth>
+    <death />
+    <education>Jawaharlal Nehru University</education>
+    <residence>
+      <city type="born">Calcutta</city>
+    </residence>
+    <movie>
+      <movie_title>Margarita with A Straw</movie_title>
+      <movie_info>A Hindi-language drama about a teenager with cerebral palsy who relocates to America to attend college.</movie_info>
+      <based_on />
+      <description>The director's conversation with her cousin, who is a disability rights activist, who desires to have a normal sex life</description>
+      <awards>The movie won 25 awards:2014 - NETPAC Award, Toronto International Film Festival,2015 - NETPAC Jury award for Best Asian Film, Toronto International Film Festival, 2015 - Audience Award, Filmfest DC - Washington DC International Film Festival.2015 - Youth Jury Award, Vesoul International Film Festival of Asian Cinema, 2015 - Audience Award for Best Feature Film, Vesoul International Film Festival of Asian.Cinema, 2015 - Feature Film Award - Best International Film, Galway Film Fleadh Ireland,2015 - Best International Feature, Gaze International LGBT Film Festival (Ireland) – Spirit of GAZE Award,2015 – Audience Award, Montclair Film Festival (MFF),2025 - Audience Award for Best Feature Film, Brussels Extraordinary Film Festival, 2015 – Best Film, Grand Prix Jury Award for Best Film,2015 – Best Film, Image Out. Rochester LGBT Film Festival, 2015 – Jury Award – Best Narrative Fiction, MIX Copenhagen, 2015 - Best Feature Film, Lili Award, 2015 – Best Film, Casa Asia Film Week, Spain,2015 - Audience Award for Best Feature Film, North Carolina Gay and Lesbian Film Festival,
+                2015 - Best Film, Utah Film Center - Damn These Heel,2015 - Audience Award for Best Feature Film, Teaneck International Film Festival - Best Feature Award, 2015 - Best Screenplay, Teaneck International Film Festival - Best Feature Award,
+                2015 - Best Screenplay, Nashville Film Festival - Bridgestone Narrative Competition,2015 - Audience Choice Award, Hamburg Gay and Lesbian Film Festival,2015 - Best Film, Best Script, Best Direction - Filmmaker of the Year, Stardust COLORS, 2015 - ViWiFF Award, Vancouver International Women in Film Festival
+                2016 - Audience Award Best Feature, Frameline San Francisco International LGBTQ Film Festival,020 - Best Film (Critics), Filmfare Awards, 2020 - Critics Award for Best Film, Screen Awards </awards>
+      <genre>
+        <description>The movie deals with the complex issues of sexuality, inclusion, self-love, and self-acceptance of a young woman coming of age following a complex relationship with a blind girl.</description>
+        <citation href="https://en.wikipedia.org/wiki/Alethea_Arnaquq-Baril" />
+      </genre>
+    </movie>
+  </director>
+  <director>
+    <name>Suzana Amaral</name>
+    <ethnicity>Brazilian</ethnicity>
+    <occupation>Director,Screenwriter</occupation>
+    <birth>
+      <city>Sao Paulo,Brazil</city>
+      <country>Brazil</country>
+      <birthdate>1932-03-28</birthdate>
+    </birth>
+    <death>2020-06-25</death>
+    <education>University of Sao Paulo (BA), New York University (MA)</education>
+    <residence>
+      <city type="born">Sao Paulo, Brazil</city>
+    </residence>
+    <movie>
+      <movie_title>A Hora da Estrela</movie_title>
+      <movie_info>The film focuses on the life of a troubled young protagonist living in São Paulo. According to film critic Nissa Torrents, "the film upsets many stereotypes in its presentation of the female protagonist, who is neither beautiful nor middle-class. An anti-heroine, starved of affection and respect, she wanders through life looking for an image she can adopt and adapt.</movie_info>
+      <based_on>Literary Novel</based_on>
+      <description>Based on the novel of the same name by Clarice Lispector.</description>
+    </movie>
+  </director>
 </directors>
