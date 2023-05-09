@@ -55,5 +55,5 @@ xhr.onreadystatechange = function() {
     });
   }
 };
-xhr.open("GET", "directors.xml");
+xhr.open("GET", "https://raw.githubusercontent.com/directhers/directhers.github.io/main/directors.xml");
 xhr.send();
