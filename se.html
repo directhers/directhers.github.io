@@ -32,26 +32,31 @@
   </nav>
 <body >
 
-<center><h1>Welcome to our search engine prototype </h1></center>
 
-<div> <center><p style="text-align:justify;">The result of our encoding process can be seen in two beautiful search engines which compile data and produce a human readable output.
+<br>
+<div> <center><p style="text-align:justify;">The result of our encoding process can be seen in a human readable output with selection of director function. We also implemented a cross director search engine.
   Check them out!
 </p> </center></div> 
-<center><p><a href="https://zicoabhidey.github.io/testprofile/" target="_blank" title="test_profile">Encoding output example - click me!</a></p></center>
 <center>
-<label for="file-select"><h2 style="color: white;">Select a Director</h2></label>
+<label for="file-select"><h1 style="color: white;">Select a Director</h1></label>
     <br>
     <select id="file-select" onchange="showFile()">
-      <option value="none" selected disabled hidden>Select an Director</option>
-      <option value="Clare_Weiskopf.html">Clare Weiskopf</option>
-      <option value="Kayo_Hatta.html">Kayo Hatta</option>
-      <option value="Shamim_Ara.html">Shamim Ara</option>
-      <option value="Ruth_Ozeki.html">Ruth Ozeki</option>
-      <option value="Rea_Tajiri.html">Rea Tajiri</option>
+      <option value="profiles\blank.html">Select an Director</option>
+      <option value="profiles\Alethea_Arnaquq_Baril.html">Alethea Arnaquq Bari</option>
+      <option value="profiles\Clare_Weiskopf.html">Clare Weiskopf</option>
+      <option value="profiles\Claudia_Llosa.html">Claudia Llosa</option>
+      <option value="profiles\Lucrecia_Martel.html">Lucrecia Martel</option>
+      <option value="profiles\Rakhshan_Banietemad.html">Rakhshan Banietemad</option>
+      <option value="profiles\Ruth_Ozeki.html">Ruth Ozeki</option>
+      <option value="profiles\Shamim_Ara.html">Shamim Ara</option>
+      <option value="profiles\Shonali_Bose.html">Ruth Ozeki</option>
+      <option value="profiles\Suzana_Amaral.html">Rea Tajiri</option>
     </select>
   </center>
-    <div id="file-content"></div>
-
+  
+  <div id="file-content" style="color:#000000;text-align:left;padding-left: 5vw;width: 100%;";></div>
+  <br>
+  <center><h1>Welcome to our search engine prototype </h1></center>
 <div style="text-align:justify;"> <center>
   <button class="square_btn" onclick="typeWriter()">Click and discover how I work</button>
  <p id="type"> </p> </center>
@@ -68,7 +73,8 @@
     <div id="results" style="color:#e26c4f;text-align:left;padding-left: 5vw;width: 100%;";></div>
 
 </div>
-  
+
+<script src="profile.js"></script>
 <script src="search.js"></script>
 <script src="type.js"></script>
   <!-- separate <div> for credits + styling credits in CSS -->

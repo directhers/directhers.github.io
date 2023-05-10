@@ -402,7 +402,12 @@ hr.solid {
 #results{
   background-color: pink;
   color:whitesmoke;
-}  
+}
+
+#file-content{
+  background-color: pink;
+  color:whitesmoke;
+}
 #intro{
   animation: startblank 7s linear 0s;
 }
