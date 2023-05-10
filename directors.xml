@@ -9,38 +9,34 @@
       <country>country: Canada</country>
       <birthdate>birthdate: 1978-05-09</birthdate>
     </birth>
-    <death />
-    <education>Sheridan College,Canada (BA)</education>
+    <education>education: Sheridan College,Canada (BA)</education>
     <residence>
-      <city type="born">Frobisher Bay, Northwest Territories</city>
+      <city type="born">residence: Frobisher Bay, Northwest Territories</city>
     </residence>
     <movie>
-      <movie_title>James Houston: The Most Interesting Group of People You'll Ever</movie_title>
-      <movie_info>A documentary on the life of artist, James Houston, who introduced Inuit art to the world and worked collaboratively with Inuit artists in creating the acclaimed art co-operative, Kinngait Studios</movie_info>
-      <based_on>Biography</based_on>
-      <description>The life of artist, James Houston</description>
-      <awards>Allan King Award For Excellence in Documentary, 2008</awards>
+      <movie_title>mocvie->movie_title: James Houston: The Most Interesting Group of People You'll Ever</movie_title>
+      <movie_info>movie_info: A documentary on the life of artist, James Houston, who introduced Inuit art to the world and worked collaboratively with Inuit artists in creating the acclaimed art co-operative, Kinngait Studios</movie_info>
+      <based_on>based_on: Biography</based_on>
+      <description>description: The life of artist, James Houston</description>
+      <awards>awards: Allan King Award For Excellence in Documentary, 2008</awards>
       <behind_the_scene>
-        <description>James Archibald Houston (June 12, 1921 - April 17, 2005) was a Canadian artist, designer, children's author and filmmaker who played an important role in the recognition of Inuit art and introduced printmaking to the Inuit. The Inuit named him Saumik, which means "the left-handed one".</description>
-        <citation href="https://en.wikipedia.org/wiki/Alethea_Arnaquq-Baril" />
+        <description>behind_the_scene: James Archibald Houston (June 12, 1921 - April 17, 2005) was a Canadian artist, designer, children's author and filmmaker who played an important role in the recognition of Inuit art and introduced printmaking to the Inuit. The Inuit named him Saumik, which means "the left-handed one".</description>
       </behind_the_scene>
     </movie>
     <movie>
-      <movie_title>Lumaajuuq: The Blind Boy and the Loon</movie_title>
-      <movie_info>A short film adaption of a traditional Inuit story which explains the origin of the narwhal and illustrates the dangers of seeking revenge.</movie_info>
-      <citation href="https://hyp.is/oyeb2uSLEe2D4uNPFU1bkw/ocean.si.edu/human-connections/history-cultures/native-knowledge-narwhal">Hypothesis Annotation</citation>
-      <based_on>Inuit Culture</based_on>
-      <description>In Inuit culture, the narwhal is described as qilalugaq qernertaq, which Inuit hunters relied on as an essential source of food, blubber, and raw materials.</description>
+      <movie_title>movie_title: Lumaajuuq: The Blind Boy and the Loon</movie_title>
+      <movie_info>movie_info: A short film adaption of a traditional Inuit story which explains the origin of the narwhal and illustrates the dangers of seeking revenge.</movie_info>
+      <based_on>based_on: Inuit Culture</based_on>
+      <description>description: In Inuit culture, the narwhal is described as qilalugaq qernertaq, which Inuit hunters relied on as an essential source of food, blubber, and raw materials.</description>
     </movie>
   </director>
   <director>
-    <name>Clare Weiskopf</name>
-    <ethnicity>British-Colombian</ethnicity>
-    <occupation>director,producer,journalist</occupation>
+    <name>name: Clare Weiskopf</name>
+    <ethnicity>ethnicity: British-Colombian</ethnicity>
+    <occupation>occupation: director,producer,journalist</occupation>
     <birth>
-      <city>Bogotá</city>
-      <country>Colombia</country>
-      <birthdate>Unkown</birthdate>
+      <city>city: Bogotá</city>
+      <country>country: Colombia</country>
     </birth>
     <founder>
       <organization_name>Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
