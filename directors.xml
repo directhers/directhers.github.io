@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <directors>
   <director>
-    <name>Alethea Arnaquq-Baril</name>
-    <ethnicity>Inuk Canadian</ethnicity>
-    <occupation>Director,Producer,Animator</occupation>
+    <name>name: Alethea Arnaquq-Baril</name>
+    <ethnicity>ethnicity: Inuk Canadian</ethnicity>
+    <occupation>occupation: Director,Producer,Animator</occupation>
     <birth>
-      <city>Frobisher Bay, Northwest Territories</city>
-      <country>Canada</country>
-      <birthdate>1978-05-09</birthdate>
+      <city>city: Frobisher Bay, Northwest Territories</city>
+      <country>country: Canada</country>
+      <birthdate>birthdate: 1978-05-09</birthdate>
     </birth>
     <death />
     <education>Sheridan College,Canada (BA)</education>
