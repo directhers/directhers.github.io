@@ -14,7 +14,7 @@
       <city type="born">residence: Frobisher Bay, Northwest Territories</city>
     </residence>
     <movie>
-      <movie_title>mocvie->movie_title: James Houston: The Most Interesting Group of People You'll Ever</movie_title>
+      <movie_title>movie_title: James Houston: The Most Interesting Group of People You'll Ever</movie_title>
       <movie_info>movie_info: A documentary on the life of artist, James Houston, who introduced Inuit art to the world and worked collaboratively with Inuit artists in creating the acclaimed art co-operative, Kinngait Studios</movie_info>
       <based_on>based_on: Biography</based_on>
       <description>description: The life of artist, James Houston</description>
@@ -39,11 +39,11 @@
       <country>country: Colombia</country>
     </birth>
     <founder>
-      <organization_name>Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
-      <organization_mission>Film production company based in Colombia working on independent, creative and personal documentaries.</organization_mission>
+      <organization_name>organization_name: Casatarántula, DOCCO Distribution and Promotion agency</organization_name>
+      <organization_mission>organization_mission: Film production company based in Colombia working on independent, creative and personal documentaries.</organization_mission>
     </founder>
-    <education location="Colombia">Pontificia Universidad Javeriana</education>
-    <description>Clare Weiskopf started her career as a journalist rather than a filmmaker and worked in television productions.</description>
+    <education location="Colombia">education: Pontificia Universidad Javeriana</education>
+    <description>description: Clare Weiskopf started her career as a journalist rather than a filmmaker and worked in television productions.</description>
     <residence>
       <city type="raised">Bogotá</city>
       <city type="migrated">London</city>
