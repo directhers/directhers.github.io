@@ -28,9 +28,6 @@ p{
 
 #index_img {
   animation: startblank 14s linear 0s;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .table  {
