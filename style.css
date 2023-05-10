@@ -12,8 +12,22 @@ h1{
   
 }
 
+h2{
+
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+  font-size: 25px;
+  font-style: italic;
+
+
+}
 p{
     color:white;
+}
+
+
+#index_img {
+  animation: startblank 14s linear 0s;
 }
 
 .table  {
@@ -36,12 +50,7 @@ th {
     background-color: #9c9964e2;
   }
 
-  nav#topnav {
-    background-color: #0C0547;
-    display: block;
-    width: 100%;
-
-  }
+ 
   
   nav#topnav ul {
     padding: 0;
@@ -221,7 +230,12 @@ th {
     font-family: 'Courier New', Courier, monospace;
     font-size: .8em;
     color:whitesmoke;
+    background-color: #e2aa4f1d;
     font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    padding: 15px;
+    opacity: 70%;
+    width: 100%;
   }
 
   /* bootstrap related */
@@ -235,7 +249,7 @@ th {
 }
 
 .row {
-  background-color: #bd3a1ac4;
+ 
   margin-bottom: 20px;
   font-family: 'Quicksand', sans-serif;
 }
